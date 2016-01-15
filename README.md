@@ -10,12 +10,12 @@ How to use:
    
    2 enter some of the following.
       
-      1)Iwork.
+      1) Iwork.
       
-      2)33.
+      2) 33.
       
-      3)81,82,83.
+      3) 81,82,83.
       
-      4)BugDB.
+      4) BugDB.
       
       Then type enter chrome will open releated URL.
