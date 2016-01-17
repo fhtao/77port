@@ -1,0 +1,13 @@
+{
+  "name": "77port",
+  "description" : "Port number or bug number to your URL.",
+  "version": "1.1",
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "permissions": [
+          "tabs"
+        ],
+  "omnibox": { "keyword" : "77" },
+  "manifest_version": 2
+}
