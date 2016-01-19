@@ -1,5 +1,5 @@
 # 77port
-This is an extension of Chrome web browser for OPC china team to navigate url.
+This is an extension of Chrome for OPC china team to navigate url.
 
 How to install:
    Drag and drop the 77.crx file to your chrome.
